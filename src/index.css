@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-olive-light: #C8D7A1;
+  --color-brand-olive: #A3B58C;
+  --color-brand-olive-dark: #8A9A5B;
+  --color-background-light: #F9F6F0;
+  --color-text-dark: #2C2A2A;
+}
